@@ -6,9 +6,9 @@ sorce code tại main.py
 # Thư mục code -> EDA Images:
 Tổng hợp hình ảnh của công đoạn Trực quan hóa Dữ liệu
 # Thư mục HM_Data:
-Dữ liệu gốc
-<ul> Dataset 1: Dữ liệu về sản phẩm thời trang của H&M <br>
-</ul>
-<ul>Dataset 2: Dữ liệu laptop crawl từ các trang TMĐT</ul>
+Dữ liệu gốc:
+<li> Dataset 1: Dữ liệu về sản phẩm thời trang của H&M <br>
+</li>
+<li>Dataset 2: Dữ liệu laptop crawl từ các trang TMĐT</li>
 # idea
 Ý tưởng và mục đích của việc thu thập và khai phá dữ liệu.
