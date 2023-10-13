@@ -1,0 +1,25 @@
+Các trường dữ liệu và mô tả:
+========================================
+
+1. Bảng giao dịch - 300transactionSample.csv
+
+transaction_id: 	
+t_dat: Thời điểm thực hiện giao dịch	
+customer_id: Mã khách hàng	
+article_id: Mã sản phẩm	
+price: Giá thành	
+sales_channel_id: Kênh bán hàng (1 là Offline, 2 là Online)
+
+=======================================
+
+2. Bảng sản phẩm - 300articleSample.csv
+
+article_id: Mã sản phẩm
+prod_name: Tên sản phẩm
+product_type_name: Loại sản phẩm
+product_group_name: Nhóm sản phẩm
+colour_group_name: Màu sắc sản phẩm
+graphical_appearance_name: Họa tiết sản phẩm 
+index_name: Phân loại mặt hàng (dựa trên đối tượng sử dụng)
+garment_group_name: Chất liệu sản phẩm
+detail_desc: Mô tả chi tiết sản phẩm

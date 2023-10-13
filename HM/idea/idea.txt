@@ -1,0 +1,11 @@
+    Với tập dữ liệu từ 300transactionSample.csv thì em xin đưa ra 5 ý tưởng sau:
+
+1.  Phân tích sự phân bố của giá sản phẩm (price) theo thời gian (t_dat)
+->Điều này sẽ giúp anh hiểu rõ giá trung bình, giá cao nhất, giá thấp nhất và phân phối giá của các sản phẩm theo từng thời điểm trong tập dữ liệu
+2.  Xác định sản phẩm phổ biến nhất
+->Điều này sẽ giúp anh biết mặt hàng nào hay sản phẩm nào nên chú trọng nhập hàng và sản xuất; còn sản phẩm hay mặt hàng nào ít mua hơn thì có thể ngưng nhập và ngưng sản xuất
+3.  Phân tích theo thời gian (t_dat)
+->Để biết được phân phối của giao dịch theo thời gian để xác định các mốc thời gian quan trọng hoặc xu hướng mua sắm.
+4.  Phân tích doanh số theo kết hợp giữa các cột khách hàng (customer_id), customer_id (article_id) và kênh bán hàng (sales_channel_id)
+5.  Xác định khách hàng tiêu biểu dựa theo cột (customer_id)
+->Mục đích: Có những chính sách khuyến mãi, ưu đãi, chăm khóc khách hàng nhằm giữ chân khách hàng.
