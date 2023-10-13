@@ -7,7 +7,8 @@ sorce code tại main.py
 Tổng hợp hình ảnh của công đoạn Trực quan hóa Dữ liệu
 # Thư mục HM_Data:
 Dữ liệu gốc
-Dataset 1: Dữ liệu về sản phẩm thời trang của H&M <br>
-Dataset 2: Dữ liệu laptop crawl từ các trang TMĐT
+<ul> Dataset 1: Dữ liệu về sản phẩm thời trang của H&M <br>
+</ul>
+<ul>Dataset 2: Dữ liệu laptop crawl từ các trang TMĐT</ul>
 # idea
 Ý tưởng và mục đích của việc thu thập và khai phá dữ liệu.
